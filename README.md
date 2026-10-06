@@ -124,7 +124,6 @@ The system accepts medical images from different imaging modalities, including:
 - Ultrasound
 - PET
 
-<img width="837" height="767" alt="Dataset" src="https://github.com/user-attachments/assets/09a10280-5ba8-4b00-82b1-099254b0e38e" />
 
 ### Step 2 — Image Feature Extraction
 
@@ -156,7 +155,11 @@ The project uses the **ROCO (Radiology Objects in COntext)** dataset.
 
 The dataset contains medical images paired with captions and associated radiological information.
 
-### Dataset Modalities
+### Dataset 
+
+* **Dataset Name:** ROCO (Radiology Objects in COntext) Dataset
+* **Link:** [Kaggle - ROCO Dataset](https://www.kaggle.com/datasets/drutikapidikiti/dataset-roco)
+
 
 The dataset includes multiple types of medical imaging, such as:
 
@@ -166,9 +169,11 @@ The dataset includes multiple types of medical imaging, such as:
 - Ultrasound
 - PET
 
+<img width="837" height="767" alt="image" src="https://github.com/user-attachments/assets/85bcc67d-e522-4c00-8f6b-ce6379015015" />
+
 The dataset is used for training, validation, and testing of the medical image captioning system.
 
----
+
 
 ##  Data Processing
 
