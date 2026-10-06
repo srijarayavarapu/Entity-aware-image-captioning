@@ -303,28 +303,9 @@ notebooks/Entity-Aware_Medical_Image_Captioning.ipynb
 
 The notebook can also be executed in **Google Colab** with an appropriate GPU runtime.
 
-### 5. Run the Pipeline
-
-Execute the notebook cells in sequence to:
-
-1. Load the dataset
-2. Preprocess medical images
-3. Extract clinical entities
-4. Generate visual and textual representations
-5. Train the captioning model
-6. Generate medical captions
-7. Produce explainability visualizations
-
----
 
 ## 📊 Results and Outputs
 
 The `outputs/` directory contains selected visual results produced by the project.
 
-These outputs include:
-
-- Medical image examples
-- Generated caption visualizations
-- Attention/ROI maps
-- Entity-aware model outputs
 
